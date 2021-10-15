@@ -18,9 +18,9 @@
  }
 
  .dice1{
-     display: inline;
+     display: inline-block;
  }
  .dice2{
-     display: inline;
+     display: inline-block;
  }
  
