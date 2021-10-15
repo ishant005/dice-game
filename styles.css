@@ -1,6 +1,6 @@
  body{
      background-color:burlywood;
-     text-align: center;
+        text-align: center;
   
  }
 .img1{
@@ -9,8 +9,17 @@
     width: 100px;
     margin: auto;
     
+}
  .img2{
    height: 100px;
     width:100px;
     margin:auto;
+   
+ }
+
+ .dice1{
+     display: inline;
+ }
+ .dice2{
+     display: inline;
  }
